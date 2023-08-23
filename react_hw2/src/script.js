@@ -13,10 +13,7 @@ const animals = [
 
 root.render(<React.Fragment>
     <h1>Animals Table</h1>
-    <table>
-        <tbody>
-            
-        </tbody>
-    </table>
+    
 
 </React.Fragment>)
+

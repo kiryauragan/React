@@ -10,10 +10,5 @@ root.render(React.createElement(
         'h1',
         null,
         'Animals Table'
-    ),
-    React.createElement(
-        'table',
-        null,
-        React.createElement('tbody', null)
     )
 ));
